@@ -1,0 +1,13 @@
+Bundle 'leafgarland/typescript-vim'
+Bundle 'maxmellon/vim-jsx-pretty'
+Bundle 'jparise/vim-graphql'
+Bundle 'neoclide/coc.nvim'
+Bundle 'dracula/vim'
+Bundle 'vim-scripts/mru.vim'
+Bundle 'fatih/vim-go'
+
+
+" fzf
+Bundle 'junegunn/fzf', {'dir': '~/.fzf','do': './install --all'}
+Bundle 'junegunn/fzf.vim'
+Bundle 'antoinemadec/coc-fzf'
